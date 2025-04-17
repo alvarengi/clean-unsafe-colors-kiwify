@@ -7,8 +7,8 @@
 // @match           https://dashboard.kiwify.com.br/members-area/*
 // @grant           none
 // @run-at          document-end
-// @downloadURL     https://raw.githubusercontent.com/alvarengi/clean-unsafe-colors-kiwify/refs/heads/main/clean-unsafe-colors-kiwify.js
-// @updateURL       https://raw.githubusercontent.com/alvarengi/clean-unsafe-colors-kiwify/refs/heads/main/clean-unsafe-colors-kiwify.js
+// @downloadURL     https://raw.githubusercontent.com/alvarengi/clean-unsafe-colors-kiwify/main/clean-unsafe-colors-kiwify.js
+// @updateURL       https://raw.githubusercontent.com/alvarengi/clean-unsafe-colors-kiwify/main/clean-unsafe-colors-kiwify.js
 // ==/UserScript==
 
 console.log("[lcpdw-kiwify] Script injetado!");
